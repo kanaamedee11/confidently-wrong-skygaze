@@ -1,0 +1,3 @@
+Loaded SuperPoint model
+Loaded SuperGlue model ("outdoor" weights)
+done

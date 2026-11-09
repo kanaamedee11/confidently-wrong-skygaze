@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Confidently Wrong: Silent Failures of Classical and Learned Feature Matching for GPS-Denied UAV Localization"
+type: software
+authors:
+  - family-names: "Kana"
+    given-names: "Amédée"
+    email: "kanaamedee00@gmail.com"
+    orcid: "https://orcid.org/0009-0009-9620-6399"
+    affiliation: "Independent Researcher, Bujumbura, Burundi"
+abstract: "An open pipeline that runs SIFT, ORB and SuperPoint+SuperGlue behind one interface and classifies each trial as accurate, detected failure or silent failure."
+keywords:
+  - UAV localization
+  - feature matching
+  - silent failure
+  - GPS-denied navigation
+license: MIT
+date-released: "2026-10-23"
+repository-code: "https://github.com/kanaamedee11/confidently-wrong-skygaze"
